@@ -6,5 +6,5 @@ I have got my bachelor degree in Piano performance and i have switched my career
 - 👯 I’m looking to collaborate on Anything that teaches me something.
 - 💬 Ask me about anything
 - 📫 How to reach me: Kouroshtkk@gmail.com
-- My technical CTF writeup website kouroshtkk.github.io
+- My technical CTF writeup website https://kouroshtkk.github.io
 
